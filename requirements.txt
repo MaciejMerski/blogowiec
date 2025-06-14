@@ -2,3 +2,4 @@ streamlit
 openai
 crewai
 langchain
+langchain-community
